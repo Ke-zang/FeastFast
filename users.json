@@ -1,0 +1,17 @@
+{
+  "customers": {
+    "kezang@gmail.com": {
+      "name": "Kezang",
+      "email": "kezang@gmail.com",
+      "salt": "6b2dc0e099354ecfa5a622044f5ea43c",
+      "hash": "31e6eae60e5c19f28581f575632674b5767b1a39104002d6cda511a65b508b9a"
+    }
+  },
+  "staff": {
+    "manager": {
+      "name": "Store Manager",
+      "salt": "e4a0538db04aa9ee9aec8b766a3f5091",
+      "hash": "ac6c9b6255f70602cf99b55456bb0a658c310480c94b4e386071accb27ef851c"
+    }
+  }
+}
