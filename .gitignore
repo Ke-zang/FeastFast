@@ -1,0 +1,10 @@
+﻿users.json
+bookings.json
+*.db
+avatars/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
